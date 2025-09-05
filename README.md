@@ -12,3 +12,11 @@
 4) 알파 고도화(Improvement): 성과가 좋은 알파들은 파라미터 튜닝 과정을 거쳐 최적화합니다.
 
 ### 최종 발표
+[📑 최종 발표 자료](https://drive.google.com/file/d/1VTAmtvWZSTU9b_TX86yf6O2v1TzqNuaw/view?usp=sharing)
+
+### 평가 기준
+- 아이디어의 근거(Rationale behind the idea): 정량적 관점과 경제적 관점 모두에서의 타당성
+- 가설의 단순성(Simplicity of the hypothesis): 아이디어가 쉽게 설명될 수 있는가?
+- 알파의 견고함(Robustness of your Alpha): 알파가 왜, 그리고 어떻게 테스트 데이터(Out-of-Sample, OS)에서도 성과를 유지할 수 있는가
+- 아이디어의 독창성(Uniqueness of the idea)
+- 구현의 창의성과 차별성(Creativity and uniqueness of the implementation)
